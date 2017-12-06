@@ -1,0 +1,7 @@
+#!/bin/sh
+
+NS="1000 1000000 1000000000"
+
+PROCS="1 2 4 8 16 32"
+
+RESULTDIR=result/
